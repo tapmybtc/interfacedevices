@@ -58,6 +58,8 @@ https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&calle
 
 https://ccid.apdu.fr/ccid/shouldwork.html#0x076B0x5022
 
+https://www.youtube.com/watch?v=M2ey-ZFiolg&list=PLXsEtURGV4pQHS4UymbgHa2FXCB6Zk50U
+
 ```
 > lsusb -v -d '076b:5022'
 
